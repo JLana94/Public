@@ -10,6 +10,6 @@ After that, please make a commit. Take care to avoid collision with other contri
 4.- Pablo Bahillo
 5.-Iker Gonzalez
 6.-Jose Fernando Gómez
-8.-Pablo Fernandez
-10.-Gonzalo Gil
-
+7.-Pablo Fernandez
+8.-Gonzalo Gil
+9. David Franco
