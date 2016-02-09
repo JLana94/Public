@@ -5,7 +5,11 @@ If you are a contributor you can insert your name in this list.
 After that, please make a commit. Take care to avoid collision with other contributor.
 
 1.- Armando Ferro
-
 2.- Iñigo Ruiz
+3.-Ian Galalrdo
+4.- Pablo Bahillo
+5.-Iker Gonzalez
+6.-Jose Fernando Gómez
+8.-Pablo Fernandez
+10.-Gonzalo Gil
 
-3.- Pablo Bahillo
