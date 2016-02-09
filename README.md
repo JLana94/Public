@@ -6,10 +6,17 @@ After that, please make a commit. Take care to avoid collision with other contri
 
 1.- Armando Ferro
 2.- Iñigo Ruiz
-3.-Ian Galalrdo
+3.-Ian Gallardo
 4.- Pablo Bahillo
 5.-Iker Gonzalez
 6.-Jose Fernando Gómez
 7.-Pablo Fernandez
 8.-Gonzalo Gil
 9. David Franco
+10.- Asier Berguilla
+11.- Javier Felipe
+12.- Nacho Uranga
+13.- David Garcia
+14.- Mikel del Vigo
+15.- Josu Lana
+16.- Jon Ander Fandiño
