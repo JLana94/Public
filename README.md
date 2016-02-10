@@ -20,3 +20,7 @@ After that, please make a commit. Take care to avoid collision with other contri
 14.- Mikel del Vigo
 15.- Josu Lana
 16.- Jon Ander Fandiño
+17.- Jon Echebarria
+18.- Endika Zuazo
+19.- Xabier Sanz
+20.- Estrella Basurto
